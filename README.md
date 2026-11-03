@@ -5,8 +5,8 @@ I write **C++**, **C** and **Python** (and sometimes **JavaScript**), mainly gam
 ---
 <details>
   <summary><b>⌨️ GitHub Stats</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=alphafetch&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphafetch&layout=compact&theme=transparent&hide_border=true&exclude_repo=PrintTracker" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eliasglick1&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasglick1&layout=compact&theme=transparent&hide_border=true&exclude_repo=PrintTracker" alt="Top Languages" />
 </details>
 
 <details>
@@ -15,16 +15,16 @@ I write **C++**, **C** and **Python** (and sometimes **JavaScript**), mainly gam
   <b>✅ Complete Projects</b>:
   <br><br>
   <ul>
-    <li><b><a href="https://github.com/alphafetch/PomodoroTimer">PomodoroTimer</a></b> - A small Pomodoro timer for a group I'm in.</li>
-    <li><b><a href="https://github.com/alphafetch/Axis">Axis</a></b> - A small header-only math library for C++.</li>
-    <li><b><a href="https://github.com/alphafetch/HexDumper">HexDumper</a></b> - A hex dumper made as a capstone for my Rust course.</li>
+    <li><b><a href="https://github.com/eliasglick1/PomodoroTimer">PomodoroTimer</a></b> - A small Pomodoro timer for a group I'm in.</li>
+    <li><b><a href="https://github.com/eliasglick1/Axis">Axis</a></b> - A small header-only math library for C++.</li>
+    <li><b><a href="https://github.com/eliasglick1/HexDumper">HexDumper</a></b> - A hex dumper made as a capstone for my Rust course.</li>
   </ul>
   
   <b>📋 In Progress</b> (in order of completion priority):
 
   <ul>
-    <li><b><a href="https://github.com/alphafetch/Chasm">Chasm</a></b> - A compiled language loosely based on C and C++.</li>
-    <li><b><a href="https://github.com/alphafetch/ConsoleTCG">ConsoleTCG</a></b> - A TCG held exclusively in your console, created in Python.</li>
+    <li><b><a href="https://github.com/eliasglick1/Chasm">Chasm</a></b> - A compiled language loosely based on C and C++.</li>
+    <li><b><a href="https://github.com/eliasglick1/ConsoleTCG">ConsoleTCG</a></b> - A TCG held exclusively in your console, created in Python.</li>
   </ul>
 
 </details>
