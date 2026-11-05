@@ -3,11 +3,6 @@
 I write **C++**, **C** and **Python** (and sometimes **JavaScript**), mainly games, simulations, and other low-level side-projects. I make projects in my free time to gain experience, and I'm currently in high school.
 
 ---
-<details>
-  <summary><b>⌨️ GitHub Stats</b></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=eliasglick1&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasglick1&layout=compact&theme=transparent&hide_border=true&exclude_repo=PrintTracker" alt="Top Languages" />
-</details>
 
 <details>
   <summary><b>💻 Projects</b></summary>
@@ -25,6 +20,7 @@ I write **C++**, **C** and **Python** (and sometimes **JavaScript**), mainly gam
   <ul>
     <li><b><a href="https://github.com/eliasglick1/Chasm">Chasm</a></b> - A compiled language loosely based on C and C++.</li>
     <li><b><a href="https://github.com/eliasglick1/ConsoleTCG">ConsoleTCG</a></b> - A TCG held exclusively in your console, created in Python.</li>
+    <li><b><a href="https://github.com/eliasglick1/LogicSimulator">LogicSimulator</a></b> - A simple logic simulator starting from NAND.</li>
   </ul>
 
 </details>
